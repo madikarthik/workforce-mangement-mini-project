@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1525199205 source:d:\rizwan's personal & college stuff\for-college sakes education\semesters\4th semester\mini project\miniprojectdraft1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	"title.h"
+
+1523278509 source:c:\users\karth\desktop\new folder\miniprojectdraft1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	"title.h"
+
+1523275026 c:\users\karth\desktop\new folder\miniprojectdraft1\title.h
+	<iostream>
+
+1525071689 d:\rizwan's personal & college stuff\for-college sakes education\semesters\4th semester\mini project\miniprojectdraft1\title.h
+	<iostream>
+
+1525613943 source:c:\users\karth\desktop\new folder (4)\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	"title.h"
+
+1525071689 c:\users\karth\desktop\new folder (4)\title.h
+	<iostream>
+

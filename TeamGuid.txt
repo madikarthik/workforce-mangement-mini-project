@@ -1,0 +1,16 @@
+This program helps you to understand how the your employees are working
+1. company workforce details
+	by pressing 1 in the menu it will display the complete list of employees working in the Team
+2.Enter Cradits
+	by pressing 2 in the menu you can enter the points for each parameter for
+	every member in you team.
+3.Add a team
+	by pressing 3 you can add a team member	your Team
+
+4. P.A.A.M analysis
+	by pressing 4 in the menu it will display the totel analysis of the Team workforce.
+5. Behavioral Evaluation
+	by pressing 5 in the menu it will display the complete detailed analysis of the team
+	in every parameter
+7. logout 
+	by pressing 7 you can logout of you account and go back to main menu

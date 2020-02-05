@@ -1,0 +1,5 @@
+Production 0
+RandD 0
+Marketing 0
+Human_Resources 0
+Finance 0

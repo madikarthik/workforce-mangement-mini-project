@@ -1,0 +1,15 @@
+This program helps you to understand how the your employees are working
+1. company workforce details
+	by pressing 1 in the menu it will display the complete list of employees working in
+	your company
+2. P.A.A.M analysis
+	by pressing 2 in the menu it will display the totel analysis of the workforce
+3.Add a team
+	by pressing 3 you can add a team/department.
+4. Delete Team
+	by pressing 4 you can delete a team/department.
+5. Search for an employee
+	by pressing 5 you can search any employee in the company by there ID. it will show
+	you the details of the employee like name of the team,Credits assigned to him.
+7. logout 
+	by pressing 7 you can logout of you account and go back to main menu

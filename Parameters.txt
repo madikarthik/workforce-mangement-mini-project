@@ -1,0 +1,12 @@
+Control
+Social_Influence
+Patience
+Precision
+Ambition
+Positive_Expectancy
+Composure
+Analytical
+Results_Orientation
+Expressiveness
+Team_Player
+Quality_Orientation
