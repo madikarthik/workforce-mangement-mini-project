@@ -1,7 +1,7 @@
 # workforce-mangement-mini-project
 
 ## Abstract
-It is practically impossible to have an ideal workspace where the effort by 
+<p>It is practically impossible to have an ideal workspace where the effort by 
 every worker in a company is constant. Not every employee in a company is 
 active, there is also a possibility that a company feeds unproductive candidates 
 who often disturb the economics of that company and in most cases the 
@@ -20,8 +20,8 @@ certain department in a company on their overall performance over a course
 of time helps the Human Resources (HR) department or the payroll
 professional to decide the status of employee career in the company. The 
 workforce on the extreme parts of the Bell Curve are subjected to firing or 
-promotion termed over certain course of time.
+promotion termed over certain course of time.</p>
 
 ## Note
-1.This program is done in C++ language
+1.This program is done in C++ language<br>
 2.Click on "main.exe" to run the program
